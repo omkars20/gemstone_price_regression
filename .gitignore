@@ -4,4 +4,4 @@ __pycache__/
 .tox/
 data/raw/
 data/processed/
-
+src/data/gemstone.csv
