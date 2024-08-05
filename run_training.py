@@ -4,7 +4,7 @@ from src.models.train import train_model
 
 print("Starting the training script...")
 # Path to your dataset
-data_path = '/home/os/kaggle-dataset/gemstone_prediction/src/data/gemstone.csv'
+data_path = 'src/data/gemstone.csv'
 print(f"Loading data from {data_path}...")
 
 # Load the data
